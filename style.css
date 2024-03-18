@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#images img {
+    margin: 10px;
+    width: 200px;
+    height: auto;
+}
